@@ -1,0 +1,99 @@
+
+
+.img-logo {
+    width: 25%;
+}
+
+.btn-nonbackground{
+    border: 1px solid #f7a4b2;
+    color: #f7a4b2;
+}
+.btn-background{
+    border: 1px solid #f7a4b2;
+    background: #f7a4b2;
+    color: #ffffff;
+}
+
+.img-person {
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+    border: 1px solid #f7a4b2;
+}
+.font-show{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.font-show span{
+    color: #f7a4b2;
+}
+.ping{
+  color:   #f7a4b2 ;
+}
+.ul-left{
+    list-style: none outside none;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    float: right;
+}
+.li-left{
+    margin: 0 10px;
+    display: inline;
+}
+.box-number{
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    margin-top: -25px;
+    margin-left: 15px;
+
+}
+.box-number span{
+    font-size: 10px;
+    color: white;
+    margin: 0;
+    font-weight:bold ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*body*/
+
+.body-content{
+    margin: 20px;
+}
+.left-content{
+    width: 30%;
+    float: left;
+
+
+}
+.right-content{
+    width: 70%;
+    float: left;
+}
+.box-menuside{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    margin-left: -20px;
+    width: 95%;
+}
+.item-nave{
+    margin-top: 10%;
+}
+.fa-size{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.item-nave:hover{
+    cursor: pointer;
+}
+
+
